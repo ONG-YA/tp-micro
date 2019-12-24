@@ -1,4 +1,4 @@
-module github.com/xiaoenai/tp-micro/v6
+module github.com/ONG-YA/tp-micro/v6
 
 go 1.13
 
@@ -6,7 +6,7 @@ require (
 	github.com/coreos/bbolt v1.3.3 // indirect
 	github.com/coreos/etcd v3.3.17+incompatible
 	github.com/coreos/go-semver v0.3.0 // indirect
-	github.com/coreos/go-systemd v0.0.0-00010101000000-000000000000 // indirect
+	github.com/coreos/go-systemd latest // indirect
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/go-redis/redis/v7 v7.0.0-beta.4
